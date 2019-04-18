@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">eat2</string>
+    <string name="title_activity_menu">Menu</string>
+    <string-array name="Main">
+        <item>Dominoes</item>
+        <item>KFC</item>
+        <item>Subway</item>
+        <item>Taco Bell</item>
+    </string-array>
+    <string-array name="Description">
+        <item>Its what we do</item>
+        <item>Finger Licking Good</item>
+        <item>Eat Fresh</item>
+        <item>Eat The Bell</item>
+    </string-array>
+    <string-array name="tbellFood">
+        <item>burito</item>
+        <item>sandwich</item>
+
+    </string-array>
+
+    <string name="title_activity_menu_new">menuNew</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

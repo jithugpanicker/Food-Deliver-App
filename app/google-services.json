@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "163672510417",
+    "firebase_url": "https://eat2-8c5e6.firebaseio.com",
+    "project_id": "eat2-8c5e6",
+    "storage_bucket": "eat2-8c5e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163672510417:android:c1725635745707f5",
+        "android_client_info": {
+          "package_name": "com.example.eat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163672510417-gf5e2ivong8uo16tnah2js7crcn598mi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eat2",
+            "certificate_hash": "30b23b9e98ce8632c5107a35b2e98de17c9ccd33"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqGTn8Cis3BDUrg91Uyu70_V_Eq1Sa7uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163672510417-kjlgiqq1d8kl5m38h9aavsinnsnhe3bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
